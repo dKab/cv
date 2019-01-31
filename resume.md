@@ -67,7 +67,7 @@ GitHub: [dKab](https://github.com/dKab)
 Languages
 ----------------------------------------
 
-* English (B2+)
+* English (С1+)
 * Russian (native)
 
 
