@@ -22,12 +22,12 @@ Education
 Experience
 ----------
 
-**Dec-2015 - Till now (Jun 2018) - Senior Frontend Developer at EPAM Systems:**
+**Dec-2015 - Till now - Senior Frontend Developer at EPAM Systems:**
 
 * Building UI of several applications for foreign customers. On previous project playing role of key developer and leading team of 4 frontend developers. Occasionally conducting technical interviews and giving tech talks at frontend community meetups.
 
 Latest Project technology stack:
-* Angular 6, TypeScript, RxJS
+* Angular 2+, TypeScript, RxJS
 
 The one before that:
 * AngularJS 1.5, ES6, NodeJS
@@ -43,7 +43,7 @@ Technology stack:
 
 **Oct-2013 - Nov-2014 Fullstack Developer at web-studio LOGIKA**
 
-* Starting point in my carreer as a web-developer. I was building web sites on Wordpress platform and some other CMS.
+* Starting point in my career as a web-developer. I was building web sites on Wordpress platform and some other CMS.
 
 Technology stack:
 * Vanilla JavaScript, jQuery, PHP
@@ -76,9 +76,9 @@ Hobbies
 * Photography
 * Hiking
 * Bicycle
-* Currently I'm part-time student (evening) at ITMO University getting CS bachelor degree.
+* Currently I'm part-time student (evening department) at ITMO University getting CS bachelor degree.
 
 ----
 
-> <dkabardinov@gmail.com> • +7 910 626 8354 • 27 years old\
+> <dkabardinov@gmail.com> • +7 999 248 9778 • 28 years old\
 > Saint Petersburg, Russian Federation
