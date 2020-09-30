@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My cv",
+  "main": "index.js",
+  "scripts": {
+    "convert": "npx md-to-pdf ./resume.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dKab/cv.git"
+  },
+  "author": "Dmitrii Kabardinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dKab/cv/issues"
+  },
+  "homepage": "https://github.com/dKab/cv#readme",
+  "dependencies": {
+    "md-to-pdf": "^3.1.1"
+  }
+}

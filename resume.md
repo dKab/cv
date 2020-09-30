@@ -1,19 +1,18 @@
 # Dmitrii Kabardinov
 
-> Frontend Developer with more than 5 years of web development experience. Open-source contributor and lifelong learner focused on customer and results.
+> Frontend Developer with more than 5 years of web development experience. Opensource contributor and lifelong learner focused on customer and result.
 
-- Experience in developing Angular 1.X and Angular 2+ applications in production
-- Have some experience with ReactJS (on pet projects and hackathons)
+- Extensive experience using Angular 1.X and Angular 2+ in production 
+- Some experience with ReactJS (on pet projects and hackathons)
 - Experience with Test-driven Development
 - I worked in teams using the SCRUM and KANBAN methodologies
 - I care about code quality
-- At my current job I focus on developing Frontend of web apps using Angular and TypeScript
-- I think communication is crucial and I am a teamplayer: I get along with customers and teammates.
+- I think communication is crucial and I am a team player: I get along with customers and teammates.
 
 # Experience
 
 **Dec-2015 - Till now - Lead Frontend Developer at EPAM Systems:**
-* Working as a frontend developer on several projects (on some of them in a role of team lead) in different domains ranging from Workforce Management to Life Science. 
+* Working as a frontend developer on several projects (on some of them in the role of team lead) in different domains ranging from Workforce Management to Life Science. 
 
 Responsibilities:
 
@@ -23,7 +22,7 @@ Responsibilities:
 - Writing unit tests
 - Refactoring
 - Design documentation
-- Mentoring less experinced developers in the team
+- Mentoring less experienced developers in the team
 - Conducting JavaScript technical interviews
 
 Latest Project technology stack:
@@ -32,25 +31,25 @@ Angular, TypeScript, Node.js, Rxjs, Angular Material, Ng-bootstrap, nvd3 (angula
 
 **Nov-2014 - Nov-2015 Fullstack Developer at LightSoft Research (remote)**
 
-* Working as fullstack developer building a service that allows users to find and book best package tours
-- Building TourmanagerPRO - app for automation of tour operator business proccesses.
+* Working as a fullstack developer building a service that allows users to find and book the best package tours
+- Building TourmanagerPRO - app for automation of tour operator business processes.
 
 Technology stack:
  PHP 5 (Symfony Framework), PostgreSQL, AngularJS
 
 **Oct-2013 - Nov-2014 Fullstack Developer at web-studio LOGIKA**
 
-* Starting point in my career as a web-developer. I was building web sites on Wordpress platform and some other CMS.
+* Starting point in my career as a web developer. I was building e-commerce web sites with Wordpress and some other CMS.
 
 Technology stack:
-Vanila JavaScript, jQuery, PHP
+Vanilla JavaScript, jQuery, PHP
 
 # Education
 
 ## 2007-2012:  
 **Nosov Magnitogorsk State Technical University**
 
-**Faculty**: Pover Engineering and Automated Systems Institute
+**Faculty**: Power Engineering and Automated Systems Institute
 
 **Specialty**: Industrial Power Supply
 
